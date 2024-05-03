@@ -2,7 +2,7 @@ class StringConstants {
   static const String home = '홈';
   static const String chat = '채팅';
   static const String location = '스팟';
-  static const String userSetting = '마이';gi
+  static const String userSetting = '마이';
   static const String appName = 'Lvit';
   static const String locationHeading = '목이길어슬픈기린님의 새로운 스팟';
   static const String starDigit = '323,333';
