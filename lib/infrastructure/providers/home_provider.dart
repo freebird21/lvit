@@ -41,7 +41,7 @@ class HomeProvider extends ChangeNotifier {
     ListingModel(
         id: 3,
         imageUrl:
-            "https://img.lovepik.com/free-png/20210923/lovepik-cute-girl-avatar-png-image_401231841_wh1200.png",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7nzUBsECaKjjgCXlqaFDA_zYXR9E86grTIw&s",
         imageOffset: 0,
         dragStartPosition: Offset.zero,
         startDragOffset: Offset.zero),
